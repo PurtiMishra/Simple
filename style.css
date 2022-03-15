@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* body{
+    width:99vw;
+}*/
+header{
+    width:97vw;
+    height:20vh;
+    background-color:black;
+    color:white;
+    border:9px solid rgb(0, 17, 255);
+
+}
+li{
+    display:inline;
+    padding:90px;
+
+}
+.purti{
+    background-color:orange;
+    color:white;
+    width:30vw;
+    height:50vh;
+    border:10px solid black;
+    float:left;
+}
+.mishra{
+    background-color:chartreuse;
+    color:black;
+    width:30vw;
+    height:50vh;
+    border:10px solid black;
+    float:right;
+}
+.manan{
+    background-image:url('https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+    background-size:cover;
+    width:39vw;
+    border:10px solid black;
+    height:50vh;
+    margin:auto;
+}
+/*.p{
+    background-color: darkmagenta;
+    color:white;
+    width:20vw;
+    height:40vh;
+    border:10px solid black;
+    margin:auto;
+}*/
+.m{
+    background-color: gold;
+    color:black;
+    border:10px solid black;
+    width:30vw;
+    height:20vw;
+    /*padding:1px;*/
+    float:left;
+}
+.v{
+    background-image:url("https://images.unsplash.com/photo-1473172707857-f9e276582ab6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-size:cover;
+    width:33vw;
+    border:10px solid black;
+    height:42vh;
+    margin:auto;
+    display:inline-block;
+}
+.pra{
+     background-color: crimson;
+     color:white;
+     width:30vw;
+     height:42vh;
+     border:10px solid black;
+     float:right;
+     display:inline;
+    /* margin:0; */
+}
+.win{
+    background-color: aqua;
+    color:black;
+    width:97vw;
+    height:10vh;
+    border:9px solid black;
+    text-align:center;
+   /* padding:10px;*/
+   /* padding-left:20px;*/
+}
+footer{
+    background-color:black;
+    color:white;
+    width:98vw;
+    height:10vh;
+    text-align:center;
+}
